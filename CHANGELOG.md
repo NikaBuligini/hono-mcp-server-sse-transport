@@ -1,5 +1,11 @@
 # hono-mcp-server-sse-transport
 
+## 0.0.4
+
+### Patch Changes
+
+- e72178c: Add .npmignore
+
 ## 0.0.3
 
 ### Patch Changes
