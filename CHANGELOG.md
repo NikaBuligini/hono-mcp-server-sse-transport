@@ -1,5 +1,11 @@
 # hono-mcp-server-sse-transport
 
+## 0.0.5
+
+### Patch Changes
+
+- 061ae4c: Fix export destingations
+
 ## 0.0.4
 
 ### Patch Changes
