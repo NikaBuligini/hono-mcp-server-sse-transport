@@ -21,8 +21,8 @@
     }
   },
   "scripts": {
-    "build": "tsc",
-    "release": "changeset publish"
+    "build": "tsc --listEmittedFiles",
+    "release": "pnpm build && changeset publish"
   },
   "peerDependencies": {
     "@modelcontextprotocol/sdk": "*",
