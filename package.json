@@ -6,6 +6,9 @@
   "keywords": [],
   "author": "NikaBuligini",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "build": "tsc",
     "release": "changeset publish"
