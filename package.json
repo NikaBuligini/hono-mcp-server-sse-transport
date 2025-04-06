@@ -9,6 +9,10 @@
     "hono"
   ],
   "author": "NikaBuligini",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikaBuligini/hono-mcp-server-sse-transport.git"
+  },
   "license": "MIT",
   "publishConfig": {
     "access": "public"
