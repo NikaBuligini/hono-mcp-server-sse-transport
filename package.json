@@ -1,0 +1,21 @@
+{
+  "name": "hono-mcp-server-sse-transport",
+  "version": "0.0.1",
+  "description": "",
+  "type": "module",
+  "keywords": [],
+  "author": "NikaBuligini",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "peerDependencies": {
+    "@modelcontextprotocol/sdk": "*",
+    "hono": "*"
+  },
+  "devDependencies": {
+    "@modelcontextprotocol/sdk": "^1.8.0",
+    "hono": "^4.7.5",
+    "typescript": "^5.8.3"
+  }
+}
