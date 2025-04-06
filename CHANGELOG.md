@@ -1,5 +1,11 @@
 # hono-mcp-server-sse-transport
 
+## 0.0.6
+
+### Patch Changes
+
+- de00016: Add github repository URL
+
 ## 0.0.5
 
 ### Patch Changes
