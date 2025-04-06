@@ -1,6 +1,6 @@
 {
   "name": "hono-mcp-server-sse-transport",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Server-Sent Events transport for Hono and Model Context Protocol",
   "type": "module",
   "keywords": [
