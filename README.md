@@ -76,7 +76,7 @@ app.post('/messages', async (c) => {
     return c.text('No transport found for sessionId', 400);
   }
 
-  return transport.handlePostMessage(c);
+  return await transport.handlePostMessage(c);
 });
 
 serve(
