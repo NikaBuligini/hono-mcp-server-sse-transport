@@ -1,5 +1,11 @@
 # hono-mcp-server-sse-transport
 
+## 0.0.7
+
+### Patch Changes
+
+- 3bf58b7: Send ping event before endpoint event
+
 ## 0.0.6
 
 ### Patch Changes
