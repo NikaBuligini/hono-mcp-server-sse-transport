@@ -33,9 +33,9 @@
     "hono": "*"
   },
   "devDependencies": {
-    "@changesets/cli": "^2.28.1",
+    "@changesets/cli": "^2.29.4",
     "@modelcontextprotocol/sdk": "^1.8.0",
-    "hono": "^4.7.5",
+    "hono": "^4.7.10",
     "typescript": "^5.8.3"
   }
 }
