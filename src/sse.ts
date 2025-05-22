@@ -43,7 +43,10 @@ export class SSETransport implements Transport {
     if (this.stream.closed) {
       throw new Error('SSE transport already closed!');
     }
-
+    await this.stream.writeSSE({
+      event: 'ping',
+      data: '',
+    });
     await this.stream.writeSSE({
       event: 'endpoint',
       data: `${this.messageUrl}?sessionId=${this.sessionId}`,
